@@ -3,7 +3,6 @@ const mobileNav = document.getElementById('mobileNav');
 const langDefault = document.getElementById('lang-default')
 const selectLang = document.querySelector('.lang-menu')
 
-// Afficher/masquer le menu mobile au clic sur la nav-bar
 navBar.addEventListener('click', () => {
     mobileNav.classList.toggle('active');
 });
