@@ -1370,4 +1370,12 @@ swiper-slide {
         margin-top: 5%;
     }
 
+    .info-site .contact {
+        font-size: 12px;
+        font-weight: 600;
+        font-family: 'Montserrat', 'Arial';
+        text-decoration: none;
+        color: var(--text-black-100);
+    }
+
 }
